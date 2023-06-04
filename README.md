@@ -1,6 +1,6 @@
 ![A passionate Data Science](https://media1.giphy.com/media/M9kgjEsLG6LMbYC9dl/200w.gif?cid=82a1493bpg7ebpp7akv3q8w7iwbdsbom0xdd7y47omkvp59h&ep=v1_gifs_related&rid=200w.gif&ct=g)
-###### Hi there 👋, I am Md.Abu Saleh
-# A passionate Data Science
+# Hi Buddy 👋, I am Md.Abu Saleh
+###### A passionate Data Science
 My name is Md. Abu Saleh.I'm studying in Computer Science and Engineering Department.I'm very interested in Mathematic things. Curious about coding or solving problems. I want to see my future as a Data Scientist.Currently I am involved in Research work.Don't mind other criticisms. I keep a cool head in times of danger and look for solutions. So, I will do everything in my life to make my future bright.Pray for me.
 
 Skills: Python/Java/C/C++/Assembly Language/Algorithm/OOP/Data Structure
